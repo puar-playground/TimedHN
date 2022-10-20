@@ -1,6 +1,5 @@
 # TimedHN
-Source code of TimedHN
-
+This is the source code of TimedHN, a time-aware oncogenetic graph reconstruction method.
 
 
 ## Reference
