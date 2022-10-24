@@ -1,5 +1,6 @@
 # TimedHN
-This is the source code of TimedHN, a time-aware oncogenetic graph reconstruction method.
+This is the source code of the Matlab implementation of TimedHN, a time-aware oncogenetic graph modeling method.<br />
+The script TimedHN_demo.m contains detailed steps for the inferrence.
 
 
 ## Reference
