@@ -5,7 +5,7 @@ This is the source code of the Matlab implementation of TimedHN, a time-aware on
 2. The script `pseudo_order_demo.m` computes the conditional expectation of progression times using a learned hazard network.<br />
 3. The script `simulation_demo.m` is for the generation of synthetic data.<br />
 
-## A visualization of the stochastic process
+## A visualization of the accumulation process
 TimedHN progress on 7-cube in layered layout
 ![Test Image 1](layered_7_hypercube.gif)
 
