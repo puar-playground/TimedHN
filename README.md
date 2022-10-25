@@ -1,3 +1,4 @@
+![Test Image 1](layered_7_hypercube.gif)
 # TimedHN
 This is the source code of the Matlab implementation of TimedHN, a time-aware oncogenetic graph modeling method.<br />
 <br />
