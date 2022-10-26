@@ -1,5 +1,5 @@
 # TimedHN
-This is the Matlab implementation of TimedHN, a time-aware oncogenetic graph modeling method.<br />
+This is the Matlab implementation of TimedHN, a time-aware oncogenetic modeling method.<br />
 ## Description of demo scripts
 1. The script `TimedHN_demo.m` is for the inferrence of the hazard network.<br />
 2. The script `pseudo_order_demo.m` computes the conditional expectation of progression times using a learned hazard network.<br />
