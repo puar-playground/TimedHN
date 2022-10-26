@@ -7,7 +7,7 @@ This is the Matlab implementation of TimedHN, a time-aware oncogenetic modeling 
 
 ## A visualization of the accumulation process
 TimedHN progress on 7-cube in layered layout
-![Test Image 1](layered_7_cube.gif)
+![Test Image 1](layered_7-cube.gif)
 
 ## Reference
 1. [Jian Chen. "Inferring time-aware models of cancer progression
