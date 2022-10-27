@@ -33,6 +33,7 @@ for d=n_layer:-1:2
         else
             parent = parent_layer_node(1);
         end
+        
         adj_matrix(parent, child) = 1;
     end
 
