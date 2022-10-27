@@ -27,7 +27,12 @@ for d=n_layer:-1:2
 
     for j=1:length(child_layer_node)
         child = child_layer_node(j);
-        parent = randsample(parent_layer_node, 1);
+        
+        if length(parent_layer_node)>1
+            parent = randsample(parent_layer_node, 1);
+        else
+            parent = parent_layer_node(1);
+        end
         adj_matrix(parent, child) = 1;
     end
 
