@@ -7,7 +7,8 @@ This is the Matlab implementation of TimedHN, a time-aware oncogenetic modeling 
 
 ## A visualization of the accumulation process
 TimedHN progress on 7-cube in layered layout. The animation shows the accumulation process of 7 events. The observation probabilities of all $2^7$ possible states are shown in redish gradient color.<br />
-![layered_7_cube](https://user-images.githubusercontent.com/45474252/202872758-33de66b3-2bc5-4486-813f-32e87a5e1f18.gif)
+![layered_7_cube](https://user-images.githubusercontent.com/45474252/202872970-b4becc00-98f6-4b1f-bc32-dbf696617be6.gif)
+
 
 ## Reference
 1. [Jian Chen. "Inferring time-aware models of cancer progression
