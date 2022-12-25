@@ -15,7 +15,7 @@ n_sample = size(snapshot, 1);
 n_event = size(snapshot, 2) - 1;
 patience_max = 1;
 lambda = 1e-2;
-lr_0 = 1e-3; % initial learning rate
+lr_0 = 1e-4; % initial learning rate
 decay_rate = 1e-4;
 %% Initialize CTMC model
 % use patrick suppes' conditions of probabilistic causation to initialize R
