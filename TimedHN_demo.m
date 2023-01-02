@@ -43,7 +43,7 @@ patience = 0;
 
 tStart = tic;
 % gradient update for 10000 iterations
-for iter=1:10000
+while true
 
     lr = (1 / (1 + decay_rate * iter)) * lr_0;
     [R_grad_total, t_grad_total, log_likelihood] = batch_grad(data, times, R);
@@ -85,6 +85,8 @@ for iter=1:10000
     % map time to the constraint space
     t_sum = sum(times);
     times = times * (t_budget / t_sum);
+    
+    iter = iter + 1;
 end
 
 %% Plot the result after thresholding
