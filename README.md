@@ -12,6 +12,6 @@ TimedHN progress on 7-cube in layered layout. The animation shows the accumulati
 
 ## Reference
 1. [Jian Chen. "Inferring time-aware models of cancer progression
-using Timed Hazard Networks." bioRxiv (2022): 2022-10.]([https://biorxiv.org/cgi/content/short/2022.10.23.513436v1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283004)https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283004)<br />
+using Timed Hazard Networks." bioRxiv (2022): 2022-10.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283004)<br />
 
 
